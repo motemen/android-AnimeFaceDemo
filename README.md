@@ -6,7 +6,7 @@ AnimeFaceDemo
 WHAT IS THIS
 ------------
 
-アニメ顔検出ライブラリ [Imager::AnimeFace][http://anime.udp.jp/imager-animeface.html] を Android から使ってみたものです。最適化などを行っていないため検出に大変時間がかかります (数分)。
+アニメ顔検出ライブラリ [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) を Android から使ってみたものです。最適化などを行っていないため検出に大変時間がかかります (数分)。
 
 HOW TO MAKE
 -----------
